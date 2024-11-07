@@ -1,0 +1,1 @@
+This is a polls app for electoral process in a school
